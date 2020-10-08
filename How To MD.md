@@ -1,26 +1,54 @@
-# How To MD #
+# MarkDown
 
-<!-- # How To MD # -->
+### WHAT
 
-<!-- Titolo H1 -->
+Markdown is a lightweight <u>markup language</u> that you can use to add formatting elements to *plaintext* text documents.
 
-## How To MD ##
+---
 
-<!-- ## How To MD ## -->
+### WHY
 
-<!-- Titolo H2 -->
+Markdown...
 
-### How To MD ###
+- .... can be used for **everything**
+- ... is **portable**  (platform independent)
+- ... is **future proof** (you can use a text editor)
 
-<!-- ### How To MD ### -->
+---
+
+### WHERE
+
+Markdown is **everywhere** (Github, Reddit)
+
+Example:
+
+[Spektral](https://github.com/danielegrattarola/spektral)
+
+[Reddit](https://www.reddit.com/wiki/markdown)
+
+---
+
+### HOW
+
+![process](D:\ING @ UNIBO - Campus Cesena\process.png)
+
+---
+
+---
+
+### HOW
+
+<!-- ### HOW ### -->
 
 <!-- Titolo H3 -->
 
+#### HOW ####
 
+<!-- #### HOW #### -->
+
+<!-- Titolo H4 -->
 
 così via fino ad h6, come per html.
-
-
 
 ###### How To MD ######
 
@@ -28,9 +56,9 @@ così via fino ad h6, come per html.
 
 <!-- Titolo H6 -->
 
----------------------------------------------
+---
 
-<!-- ---------- -->
+<!-- --- -->
 
 Dopo aver affrontato la parte di titolazione e commento possiamo affrontare i link
 
@@ -58,7 +86,7 @@ _italic_
 
 _Le __cose__ si possono chiaramente ~~mettere __insieme__~~ combinare_
 
------------------------------------------------------------------------------------------------------
+---
 
 Per le liste non numerate possiamo
 
@@ -98,21 +126,7 @@ Esistono anche le liste numerate
 
 <!-- 	2. dettagliata -->
 
--------------------------------------------------------------------------------------
-
-<div style="border: solid black 1px">
-    se conoscete html, partite senza dubbio con un vantaggio
-    <br>
-    visto che md prende a piene mani da quel "mondo"
-</div>
-
-<!-- <div style="border: solid black 1px">
-    se conoscete html, partite senza dubbio con un vantaggio
-    <br>
-    visto che md prende a piene mani da quel "mondo"
-</div> -->
-
-----------------------------------------------------------------------------
+---
 
 Questa invece è la struttura di una tabella
 
