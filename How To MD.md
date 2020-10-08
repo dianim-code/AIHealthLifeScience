@@ -137,3 +137,9 @@ Questa invece è la struttura di una tabella
 <!-- | header 1 | header 2 | </div> -->
 
 <!-- e l'editor autocompleta (nella maggior parte dei casi) -->
+
+---
+
+Possiamo infine aggiungere degli snippet di codice, magari per indicare i passaggi utili per l'installazione.
+'''bash
+pip instll nomepacchetto'''
