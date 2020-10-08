@@ -142,8 +142,10 @@ Questa invece è la struttura di una tabella
 
 Possiamo infine aggiungere degli snippet di codice, magari per indicare i passaggi utili per l'installazione.
 ```bash
-pip install nomepacchetto
+$ pip install nomepacchetto
 ```
+
+oppure del codice interessante
 ```python
 def hello():
   print("Hello world")
