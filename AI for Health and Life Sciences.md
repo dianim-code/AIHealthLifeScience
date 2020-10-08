@@ -14,9 +14,9 @@ Questo file raccoglierà tutti i materiali (libri, link e risorse varie) proveni
 
 Python related links:
 
-​	[Python Courses](https://www.pcworld.com/article/3287981/best-python-courses.html)
+    ​	[Python Courses](https://www.pcworld.com/article/3287981/best-python-courses.html)
 
-​	[Define a function in python](https://towardsdatascience.com/function-definition-in-python-bae11c29f4cd)
+    ​	[Define a function in python](https://towardsdatascience.com/function-definition-in-python-bae11c29f4cd)
 
 ### Libri
 
