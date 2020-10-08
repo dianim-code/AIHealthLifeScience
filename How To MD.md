@@ -42,7 +42,7 @@ Example:
 
 <!-- Titolo H3 -->
 
-#### HOW ####
+#### HOW
 
 <!-- #### HOW #### -->
 
@@ -50,7 +50,7 @@ Example:
 
 così via fino ad h6, come per html.
 
-###### How To MD ######
+###### How To MD
 
 <!-- ###### How To MD ###### -->
 
