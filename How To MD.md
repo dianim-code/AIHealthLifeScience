@@ -150,3 +150,5 @@ oppure del codice interessante
 def hello():
   print("Hello world")
 ```
+
+:eyes::eyes::eyes:
