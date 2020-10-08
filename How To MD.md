@@ -30,7 +30,7 @@ Example:
 
 ### HOW
 
-![process](D:\ING @ UNIBO - Campus Cesena\process.png)
+![Process](https://d33wubrfki0l68.cloudfront.net/75cdd78aba218a9abbfe91d2ba2cf540a7502d8c/553fa/assets/images/process.png)
 
 ---
 
